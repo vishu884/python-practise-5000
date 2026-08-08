@@ -442,6 +442,71 @@ enter the marks of physics=50
 total marks is 250
 avarage marks is 50
 ````
+# section 2 : Data type
+# 41.Store an integer.
+````
+num=10
+print(num)
+print(type(num))
+````
+# Output
+````
+10
+<class 'int'>
+````
+# 42.Store a float.
+````
+num=10.2
+print(num)
+print(type(num))
+````
+# Output
+````
+10.2
+<class 'float'>
+````
+# 43.Store a string.
+````
+name="vishwapratap"
+print(name)
+print(type(name))
+````
+# Output
+````
+vishwapratap
+<class 'str'>
+````
+# 44.Store a Boolean.
+````
+a=True
+print(a)
+print(type(a))
+````
+# Output
+````
+True
+<class 'bool'>
+````
+# 45.Print the type of each variable.
+````
+a=10
+b=10.5
+c="vishu"
+d=True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+````
+# Output
+````
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+````
+
+
 
 
 

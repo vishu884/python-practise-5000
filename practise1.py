@@ -132,6 +132,28 @@ total=english+math+hindi+bio+physics
 print("total marks is",total)
 avg=total/5
 print("avarage marks is",avg)'''
+"""num=10
+print(num)
+print(type(num))"""
+'''num=10.5
+print(num)
+print(type(num))'''
+"""name="viswapratap"
+print(name)
+print(type(name))"""
+'''a=True
+print(a)
+print(type(a))'''
+"""a=10
+b=10.5
+c="vishu"
+d=True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))"""
+
+
 
 
 
