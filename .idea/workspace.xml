@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="740c6337-e26f-4c0d-95b9-68df958a2f92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practise1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python-practise-5000.md" beforeDir="false" afterPath="$PROJECT_DIR$/python-practise-5000.md" afterDir="false" />
     </list>

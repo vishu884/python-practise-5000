@@ -795,8 +795,81 @@ print(type(c))
 30.3
 <class 'float'>
 ````
-
-
+# 71.Write a program that adds an int and a float representing exam result and shows the automatically converted result type.
+````
+a=10
+b=20.3
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+30.3
+<class 'float'>
+````
+# 72.Write a program that adds an int and a float representing social media likes count and shows the automatically converted result type.
+````
+a=10
+b=20.3
+print(c)
+print(type(c))
+````
+# Output
+````
+30.3
+<class 'float'>
+````
+# 73.Write a program that adds an int and a float representing stock price and shows the automatically converted result type.
+````
+a=10
+b=20.3
+print(c)
+print(type(c))
+````
+# Output
+````
+30.3
+<class 'float'>
+````
+# 74.Write a program that adds an int and a float representing water tank level and shows the automatically converted result type.
+````
+a=10
+b=20.3
+print(c)
+print(type(c))
+````
+# Output
+````
+30.3
+<class 'float'>
+````
+# 75.Write a program that adds an int and a float representing traffic signal timer and shows the automatically converted result type.
+````
+a=10
+b=20.3
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+30.3
+<class 'float'>
+````
+# 76.Write a program that adds an int and a float representing game high score and shows the automatically converted result type.
+````
+a=10
+b=20.3
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+30.3
+<class 'float>
+````
 
 
 
