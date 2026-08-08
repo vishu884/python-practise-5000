@@ -88,6 +88,55 @@ print(div)"""
 '''num=5
 remender=num%3
 print(remender)'''
+"""x=10
+y=21
+print(x+y)
+print(y-x)
+print(x*y)
+print(y/x)
+print(y%x)"""
+'''name=input("enter your name")
+print("hello",name)'''
+"""age=int(input("enter your age"))
+print(age)"""
+'''num1=int(input("enter the firest number"))
+num2=int(input("enter the srcond number"))
+sum=num1+num2
+print(sum)'''
+"""length=int(input("enter the length"))
+width=int(input("enter the width"))
+area=length*width
+print(area)"""
+'''radius=int(input("enter the radius of circle"))
+pie=3.14
+circumfance=2*pie*radius
+print(circumfance)'''
+"""principal=int(input("enter the principal"))
+rate=int(input("enter the rate"))
+time=int(input("enter the time"))
+si=(principal*rate*time)/100
+print("simple intrest is",si)"""
+'''distance=int(input("enter the distance"))
+time=int(input("enter the time"))
+speed=distance/time
+print("the spped is",speed)'''
+"""firest_name=input("enter the firest name")
+last_name=input("enter the last name")
+print(firest_name+last_name)"""
+'''english=int(input("enter the marks of english"))
+math=int(input("enter the marks of hindi"))
+hindi=int(input("enter the marks of hindi"))
+bio=int(input("enter the marks of biology"))
+physics=int(input("enter the marks of physics"))
+total=english+math+hindi+bio+physics
+print("total marks is",total)
+avg=total/5
+print("avarage marks is",avg)'''
+
+
+
+
+
 
 
 

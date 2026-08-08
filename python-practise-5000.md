@@ -299,6 +299,151 @@ print(remender)
 ````
 2
 ````
+# 31.Create two variables x and y. Print:
+Addition
+Subtraction
+Multiplication
+Division
+Modulus
+````
+x=10
+y=21
+print(x+y)
+print(y-x)
+print(x*y)
+print(y/x)
+print(y%x)
+````
+# Output
+````
+31
+11
+210
+2.1
+1
+````
+# 32.Take the user's name as input and print a greeting.
+````
+name=input("enter your name")
+print("hello",name)
+````
+# Output
+````
+enter your name=vishwapratap
+hello vishwapratap
+````
+# 33.Take the user's age as input and print it after converting it to an integer.
+````
+age=int(input("enter your age"))
+print(age)
+````
+# Output
+````
+enter your age=22
+22
+````
+# 34.Take two numbers as input and print their sum.
+````
+num1=int(input("enter the firest number"))
+num2=int(input("enter the second number"))
+sum=num1+num2
+print(sum)
+````
+# output
+````
+enter the firest number=10
+enter the second number=10
+20
+````
+# 35.Take the length and width as input and calculate the area of a rectangle.
+````
+length=int(input("enter the length"))
+width=int(input("enter the width"))
+area=length*width
+print(area)
+````
+# Output
+````
+enter the length=10
+enter the width=10
+100
+````
+# 36.Take the radius as input and calculate the circumference of a circle.
+````
+radius=int(input("enter the radius"))
+pie=3.14
+circumfance=2*pie*radius
+print(circumfance)
+````
+# Output
+````
+enter the radius=10
+62.8
+````
+# 37.Take principal, rate, and time as input and calculate the simple interest.
+````
+principal=int(input("enter the principal"))
+rate=int(input("enter the rate"))
+time=int(input("enter the time"))
+si=(principal*rate*time)/100
+print("simple intrest is",si)
+````
+# Output
+````
+enter the principal=100
+enter the rate=50
+enter the time=2
+simple intrest is 100
+````
+# 38.Take distance and time as input and calculate the speed.
+````
+distance=int(input("enter the distance"))
+time=int(input("enter the time"))
+speed=distance/time
+print("the speed is",speed)
+````
+# Output
+````
+enter the distance=100
+enter the time=2
+the speed is 50
+````
+# 39.Take the first name and last name as input and print the full name.
+````
+firest_name=input("enter the firest name")
+last_name=input("enter the last name")
+print(firest_name+last_name)
+````
+# Output
+````
+enter the firest name=vishwapratap
+enter the last name=singh
+vishwapratapsingh
+````
+# 40.Take marks for five subjects as input and calculate the total and average.
+````
+english=int(input("enter the marks of english"))
+math=int(input("enter the marks of math"))
+hindi=int(input("enter the marks of hindi"))
+bio=int(input("enter the marks of bio"))
+physics=int(input("enter the marks of physics"))
+total=english+math+hindi+bio+physics
+print("total marks is",total)
+avg=total/5
+print("avarage marks is",avg)
+````
+# output
+````
+enter the marks of english=50
+enter the marks of mmath=50
+enter the marks of hindi=50
+enter the marks of bio=50
+enter the marks of physics=50
+total marks is 250
+avarage marks is 50
+````
+
+
 
 
 
