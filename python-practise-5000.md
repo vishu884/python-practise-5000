@@ -198,5 +198,107 @@ print("the speed is",speed)
 ````
 the speed is 50
 ````
+# 21.Store principal, rate, and time in variables and calculate the simple interest.
+````
+principal=100
+rate=50
+time=2
+si=(principal*rate*time)/100
+print("simple intrest is",si)
+````
+# Output
+````
+simple intrest is 100
+````
+# 22.Store a string in a variable and convert it to uppercase.
+````
+name=vishwapratap
+result=name.length()
+print(result)
+````
+# Output
+````
+VISHWAPRATAP
+````
+# 23.Store a string in a variable and convert it to uppercase.
+````
+name="vishwapratap"
+length=(len(name))
+print(length)
+````
+# Output
+````
+12
+````
+# 24.Store a sentence in a variable and print its first character.
+````
+name="vishwapratap"
+print(name[0])
+````
+# Output
+````
+v
+````
+# 25.Store a word in a variable and print its last character.
+````
+name="vishwapratap"
+print(name[-1])
+````
+# Output
+````
+p
+````
+# 26.Store two strings in separate variables and concatenate them.
+````
+firest_name="vishwapratap"
+last_name="singh"
+result=firest_name+last_name
+print(result)
+````
+# Output
+````
+vishwapratapsingh
+````
+# 27.Store a number in a variable and increase it by 10.
+````
+num=10
+sum=num+10
+print(sum)
+````
+# output
+````
+20
+````
+# 28.Store a number in a variable and multiply it by 5.
+````
+num=10
+mul=num*5
+print(mul)
+````
+# Output
+````
+50
+````
+# 29.Store a number in a variable and divide it by 2.
+````
+num=10
+div=num/2
+print(div)
+````
+# Output
+````
+5
+````
+# 30.Store a number in a variable and print the remainder when divided by 3.
+````
+num=5
+remender=num%3
+print(remender)
+````
+# Output
+````
+2
+````
+
 
 

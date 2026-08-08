@@ -57,6 +57,37 @@ print("the anual salary is",anual_salary)"""
 time=2
 speed=distance/time
 print("the speed is",speed)'''
+"""principal=100
+rate=50
+time=2
+si=(principal*rate*time)/100
+print("simple intest is",si)"""
+'''name="vishwapratap"
+result=name.upper()
+print(result)'''
+"""name="vishwapratap"
+length=(len(name))
+print(length)"""
+'''name="vishwapratap"
+print(name[0])'''
+"""name="vishwapratap"
+print(name[-1])"""
+'''firest_name="vishwapratap"
+last_name="singh"
+result=firest_name+last_name
+print(result)'''
+"""num=10
+sum=num+10
+print(sum)"""
+'''num=10
+mul=num*5
+print(mul)'''
+"""num=10
+div=num/2
+print(div)"""
+'''num=5
+remender=num%3
+print(remender)'''
 
 
 
