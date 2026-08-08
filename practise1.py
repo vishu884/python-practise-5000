@@ -152,6 +152,110 @@ print(type(a))
 print(type(b))
 print(type(c))
 print(type(d))"""
+'''li=[2,4,6,"vishu",8,9]
+print(li)'''
+"""tu=(2,4,6,8,"vishu",8,9)
+print(tu)"""
+'''set={2,4,6,4,9,8}
+print(set)'''
+"""dis={
+    "name" : "vishu",
+    "class": "bca",
+    "age": 22
+}
+print(dis)"""
+'''a=[2,4,6,8]
+b=(2,4,6,8)
+c={2,4,4,6,8}
+d={
+    "name":"vishu"
+}
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))'''
+"""lis=[2,4,6,8]
+print(lis)"""
+'''lis=["vishu","nishant","satyam"]
+print(lis)'''
+"""tu=("varanasi","jaunpur")
+print(tu)"""
+'''se={2,2,4,4,6,6,8,8}
+print(se)'''
+"""stu={
+    "name":"vishu",
+    "class":"bca",
+    "age":22
+}
+print(stu)"""
+'''li=[2,4,6,8]
+tu=(2,4,6,8)
+se={2,4,6,8}
+stu={
+    "name":"vishu"
+}
+print(type(li))
+print(type(tu))
+print(type(se))
+print(type(stu))'''
+"""a=10
+b=10.5
+print(type(a)==type(b))"""
+'''li=[2,4,6]
+tu=(2,4,6)
+print(type(li)==type(tu))'''
+"""se={2,4,2,6,8}
+stu={
+    "name":"vishu"
+}
+print(type(se)==type(stu))"""
+'''a=True
+b=10
+print(a==b)'''
+"""a=10
+b=10.5
+print(a+b)"""
+'''a=10000
+b=10500.50
+print(a+b)'''
+"""a=200
+b=200.50
+print(a+b)"""
+'''user1=10000
+user2=10000.80
+print(user1+user2)'''
+"""a=40
+b=40.4
+c=a+b
+print(c)
+print(type(c))"""
+'''a=30
+b=600.5
+c=a+b
+print(c)
+print(type(c))'''
+"""a=10
+b=10.5
+c=a+b
+print(c)
+print(type(c))"""
+'''a=10
+b=20.5
+c=a+b
+print(c)
+print(type(c))'''
+"""a=10000
+b=10000.50
+c=a+b
+print(c)
+print(type(c))"""
+'''a=10
+b=20.3
+c=a+b
+print(c)
+print(type(c))'''
+
+
 
 
 

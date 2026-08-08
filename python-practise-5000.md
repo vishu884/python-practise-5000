@@ -505,6 +505,299 @@ print(type(d))
 <class 'str'>
 <class 'bool'>
 ````
+# 46.Create a list.
+````
+li=[2,4,6,"vishu",8,9]
+print(li)
+````
+# Output
+````
+[2,4,6,"vishu",8,9]
+````
+# 47.Create a tuple.
+````
+tu=(2,4,6,"vishu",8,9)
+print(tu)
+````
+# Output
+````
+(2,4,6,"vishu",8,9)
+````
+# 48.Create a set.
+````
+set={2,4,6,4,9,8}
+print(set)
+````
+# Output
+````
+{2,4,6,9,8}
+````
+# 49. Create a dictionary.
+````
+dis={
+"name":"vishu",
+"class":"bca",
+"age":22
+}
+print(dis)
+````
+# Output
+````
+{'name':'vishu','class':'bca','age':22}
+````
+# 50.Print each data type.
+````
+a=[2,4,6,8]
+b=(2,4,6,8)
+c={2,4,4,6,8}
+d={
+"name":"vishu"
+}
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+````
+# Output
+````
+<class 'list'>
+<class 'tuple'>
+<class 'set'>
+<class 'dict'>
+````
+# 51.Store multiple integers in a list.
+````
+lis=[2,4,6,8]
+print(lis)
+````
+# Output
+````
+[2,4,6,8]
+````
+# 52.Store names in a list.
+````
+lis=["vishu","nishant","satyam"]
+print(lis)
+````
+# Output
+````
+['vishu','nishant','satyam']
+````
+# 53.Store cities in a tuple.
+````
+tu=("varanasi","jaunpur")
+print(tu)
+````
+# Output
+````
+('varanasi','janpur')
+````
+# 54.Store unique numbers in a set.
+````
+se={2,2,4,4,6,6,8,8}
+print(se)
+````
+# Output
+````
+{2,4,6,8}
+````
+# 55.Create a student dictionary.
+````
+stu={
+"name":"vishu",
+"class":"bca",
+"age":22
+}
+print(stu)
+````
+# Output
+````
+{'name':'vishu','class':'bca','age':22}
+````
+# 56.Check the type of every variable.
+````
+li=[2,4,6,8]
+tu=(2,4,6,8)
+se={2,4,6,8}
+stu={
+ "name":"vishu"
+}
+print(type(li))
+print(type(tu))
+print(type(se))
+print(type(stu))
+````
+# Output
+````
+<class 'list'>
+<class 'tuple'>
+<class 'set'>
+<class 'dict'>
+````
+# 57.Compare int and float.
+````
+a=10
+b=10.5
+print(type(a)==type(b))
+````
+# Output
+````
+false
+````
+# 58.Compare list and tuple.
+````
+li=[2,4,6]
+tu=(2,4,6)
+print(type(li)==type(tu))
+````
+# Output
+````
+false
+````
+# 59.Compare set and dictionary.
+````
+se={2,4,6,8}
+stu={
+"name":"vishu"
+}
+print(type(se)==type(stu))
+````
+# Output
+````
+false
+````
+# 60.Compare bool and int.
+````
+a=True
+b=10
+print(a==b)
+````
+# Output
+````
+false
+````
+# Type conversion
+# 61.Write a program that adds an int and a float representing student marks and shows the automatically converted result type.
+````
+a=10
+b=10.5
+print(a+b)
+````
+# Output
+````
+20.5
+````
+# 62.Write a program that adds an int and a float representing employee salary and shows the automatically converted result type.
+````
+a=10000
+b=10500.50
+print(a+b)
+````
+# Output
+````
+11500.50
+````
+# 63.Write a program that adds an int and a float representing shopping cart total and shows the automatically converted result type.
+````
+a=200
+b=200.50
+print(a+b)
+````
+# Output
+````
+400.50
+````
+# 64.Write a program that adds an int and a float representing bank account balance and shows the automatically converted result type.
+````
+user1=10000
+user2=10000.80
+print(user1+user2)
+````
+# Output
+````
+20000.80
+````
+# 65.Write a program that adds an int and a float representing temperature reading and shows the automatically converted result type.
+````
+a=40
+b=40.4
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+80.4
+<class 'float'>
+````
+# 66.Write a program that adds an int and a float representing movie rating and shows the automatically converted result type.
+````
+a=30
+b=600.5
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+630.5
+<class 'float'>
+````
+# 67.Write a program that adds an int and a float representing cricket score and shows the automatically converted result type.
+````
+a=10
+b=10.5
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+20.5
+<class 'float'>
+````
+# 68.Write a program that adds an int and a float representing car speed and shows the automatically converted result type.
+````
+a=10
+b=20.5
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+30.5
+<class 'float'>
+````
+# 69.rite a program that adds an int and a float representing electricity bill and shows the automatically converted result type.
+````
+a=10000
+b=10000.50
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+20000.50
+<class 'float'>
+````
+# 70.Write a program that adds an int and a float representing library book count and shows the automatically converted result type.
+````
+a=10
+b=20.3
+c=a+b
+print(c)
+print(type(c))
+````
+# Output
+````
+30.3
+<class 'float'>
+````
+
+
+
 
 
 
