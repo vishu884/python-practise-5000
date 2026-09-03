@@ -1,1 +1,3 @@
+name="vishu"
+print(name)
 

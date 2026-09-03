@@ -870,6 +870,56 @@ print(type(c))
 30.3
 <class 'float>
 ````
+# if else code
+# 77.ATM Withdrawal
+````
+a=int(input("enter your money"))
+if a>=5000 :
+    print("paisa nikal sakate ho")
+elif a>=1000 :
+    print("shif 1000 nikal sakate ho")
+else :
+    print("insufficent balance")
+````
+# Output 
+````
+enter your money=6000
+paisa nikal sakate ho
+````
+# 78.Mobile Recharge
+````
+a=int(input("enter your balance"))
+if a>=299 :
+    print("28 days recharge")
+elif a>=199 :
+    print("14 days recharge")
+else :
+    print("recharge nhi ho sakata hai")
+````
+# Output 
+````
+enter your balance=300
+28 days recharge
+````
+# 79.Restaurant Bill
+````
+a=int(input("enter your resturent bill"))
+if a>=1000 :
+    print("20% discount")
+elif a>=500 :
+    print("10% discount")
+else :
+    print("koi discount nhi")
+````
+# Output
+enter your resturent bill=1100
+
+
+
+
+
+
+
 
 
 
